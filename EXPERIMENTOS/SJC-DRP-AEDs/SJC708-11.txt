@@ -1,0 +1,58 @@
+Número de eventos: 708
+Presupuesto: 7
+Radio de cobertura: 800
+
+q_inicial: 100, máximos de iteraciones: 1000
+Número de eventos cubiertos: 679
+Porcentaje de eventos cubiertos: 95.904%
+Tiempo de ejecución: 2.14088 segundos
+Presupuesto sobrante: 0
+
+q_inicial: 100, máximos de iteraciones: 5000
+Número de eventos cubiertos: 679
+Porcentaje de eventos cubiertos: 95.904%
+Tiempo de ejecución: 10.6394 segundos
+Presupuesto sobrante: 0
+
+q_inicial: 100, máximos de iteraciones: 10000
+Número de eventos cubiertos: 681
+Porcentaje de eventos cubiertos: 96.1864%
+Tiempo de ejecución: 20.6146 segundos
+Presupuesto sobrante: 0.4
+
+q_inicial: 500, máximos de iteraciones: 1000
+Número de eventos cubiertos: 679
+Porcentaje de eventos cubiertos: 95.904%
+Tiempo de ejecución: 2.19045 segundos
+Presupuesto sobrante: 0
+
+q_inicial: 500, máximos de iteraciones: 5000
+Número de eventos cubiertos: 679
+Porcentaje de eventos cubiertos: 95.904%
+Tiempo de ejecución: 10.8218 segundos
+Presupuesto sobrante: 0
+
+q_inicial: 500, máximos de iteraciones: 10000
+Número de eventos cubiertos: 679
+Porcentaje de eventos cubiertos: 95.904%
+Tiempo de ejecución: 21.7845 segundos
+Presupuesto sobrante: 0
+
+q_inicial: 1000, máximos de iteraciones: 1000
+Número de eventos cubiertos: 679
+Porcentaje de eventos cubiertos: 95.904%
+Tiempo de ejecución: 2.13804 segundos
+Presupuesto sobrante: 0
+
+q_inicial: 1000, máximos de iteraciones: 5000
+Número de eventos cubiertos: 679
+Porcentaje de eventos cubiertos: 95.904%
+Tiempo de ejecución: 10.7848 segundos
+Presupuesto sobrante: 0
+
+q_inicial: 1000, máximos de iteraciones: 10000
+Número de eventos cubiertos: 679
+Porcentaje de eventos cubiertos: 95.904%
+Tiempo de ejecución: 21.3826 segundos
+Presupuesto sobrante: 0
+
